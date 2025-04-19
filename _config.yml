@@ -1,0 +1,7 @@
+title: leavenipm Intern
+description: AI × 法律新創實習基地
+baseurl: "" # 留空，因為你會用自訂網域
+
+theme: minima
+plugins:
+  - jekyll-feed
