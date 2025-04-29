@@ -62,7 +62,7 @@ Leavenipm AI Team全員 2000 年後出生，扁平管理，氛圍超CHILL!!!
 - 願意學 Git／Markdown，及智財基礎法律知識
 
 **加分條件**
-- 具備基礎程式能力（如 Python、JavaScript）
+- 具備基礎程式能力
 - 顧及細節，具備智財領域文件編校經驗
 - 日文能力（JLPT N1 以上或母語者佳）
 
