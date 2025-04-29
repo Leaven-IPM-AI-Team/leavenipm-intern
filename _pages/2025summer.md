@@ -22,8 +22,8 @@ Leavenipm AI Team全員 2000 年後出生，扁平管理，氛圍超CHILL!!!
 ## 專案內容
 
 - 聚焦於智慧財產與法律科技相關議題，引入生成式AI實現自動化
-- 核心技術：Prompt Engineering、Embedding Search、Finetuning，雲端大型語言模型API以及所內部署的地端大型語言模型
-- 專案成果將直接應用於律師事務所案件資料處理
+- 核心技術：Prompt Engineering、Embedding Search、Finetuning，雲端大型語言模型API以及內部部署的地端大型語言模型
+- 專案成果將實務應用於實際案件資料處理
 
 ---
 
