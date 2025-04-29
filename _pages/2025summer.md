@@ -16,6 +16,7 @@ Leavenipm AI Team全員 2000 年後出生，扁平管理，氛圍超CHILL!!!
 
 1. **AI 工程師**
 2. **化學技術文件Post Editor**
+3. **雲端工程師**
 
 ---
 
@@ -44,7 +45,7 @@ Leavenipm AI Team全員 2000 年後出生，扁平管理，氛圍超CHILL!!!
 
 ### AI 工程師
 **必備條件**
-- 學士、碩士在學
+- 學士或碩士在學
 - 熟練 Python（具備Python 開發經驗，能獨立完成模組化專案）
 - 基本英文閱讀能力（可理解論文、官方文件）
 - 願意學習智財基礎法律知識
@@ -56,7 +57,7 @@ Leavenipm AI Team全員 2000 年後出生，扁平管理，氛圍超CHILL!!!
 
 ### 化學技術文件Post Editor
 **必備條件**
-- 學士、碩士在學
+- 學士或碩士在學
 - 熟悉化學領域相關專有名詞（文件類型以智慧財產領域相關為主）
 - 基本 Office Word／Google Docs 的文字排版與校對
 - 願意學 Git／Markdown，及智財基礎法律知識
@@ -65,6 +66,19 @@ Leavenipm AI Team全員 2000 年後出生，扁平管理，氛圍超CHILL!!!
 - 具備基礎程式能力
 - 顧及細節，具備智財領域文件編校經驗
 - 日文能力（JLPT N1 以上或母語者佳）
+
+### 雲端工程師
+**必備條件**
+- 學士或碩士在學  
+- 對雲端技術有興趣，願意主動動手實作，追蹤新技術  
+- 會基礎Linux指令，寫簡易 Bash、PowerShell 腳本
+- 了解 VM、儲存、網路等基礎服務概念  
+- 基本英文閱讀能力（可理解論文、官方文件）
+
+**加分條件**
+- AWS Certified Cloud Practitioner、Google Cloud Digital Leader 
+- 動手跑過 Docker container  
+- GitHub 上有雲端小專案或貢獻開源者更佳    
 
 ---
 
