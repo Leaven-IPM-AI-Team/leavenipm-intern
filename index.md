@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Leavenipm AI Team
+permalink: /
 ---
 
 
