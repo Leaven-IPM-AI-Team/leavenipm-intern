@@ -111,7 +111,7 @@ Leavenipm AI Team全員 2000 年後出生，扁平管理，氛圍超CHILL!!!
 
 ## 如何申請？
 
-請將履歷寄到 [ikq@leeandli.com](mailto:ikq@leeandli.com)  
+請將履歷寄到 [imm@leavenipm.com](mailto:imm@leavenipm.com)  
 信件標題請註明：【應徵Leavenipm Intern - 姓名】  
 附上你的履歷（可附加作品集、GitHub、Linkedin連結加分！）
 
