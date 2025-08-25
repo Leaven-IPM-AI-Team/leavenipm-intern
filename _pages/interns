@@ -4,16 +4,16 @@ title: 歷屆實習生
 permalink: /interns/
 ---
 
-<h2>歷屆實習生</h2>
+<h2>第1期實習生</h2>
 
 <div style="display: flex; align-items: center; margin: 20px 0;">
   <img src="/assets/images/CHUN.jpeg" alt="範例人物" style="width:150px; border-radius: 8px; margin-right:20px;">
   <div>
     <h3>CHUN</h3>
-    <p>
-      2024 年暑期實習生，主要參與程式開發、模型訓練與地端模型部署，稍微涉略雲端架構。  
-      在實習期間將翻譯流程模組化，讓不同的翻譯專案可以更快速開發。  
-      致力於改善IPM實習生伙食。
-    </p>
+    
+      <p>2024 年暑期實習生，主要參與程式開發、模型訓練與地端模型部署，稍微涉略雲端架構。</p>  
+      <p>在實習期間將翻譯流程模組化，讓不同的翻譯專案可以更快速開發。</p>
+      <p>致力於改善IPM實習生伙食。</p>
+    
   </div>
 </div>
