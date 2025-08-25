@@ -17,8 +17,12 @@ permalink: /interns/
       <p>致力於改善IPM實習生伙食與員工福利。</p>
     
   </div>
+</div>
 
 <h2>第1期實習生</h2>
-
+<div style="display: flex; align-items: center; margin: 20px 0;">
+  </div>
 <h2>第2期實習生</h2>
+<div style="display: flex; align-items: center; margin: 20px 0;">
 </div>
+
