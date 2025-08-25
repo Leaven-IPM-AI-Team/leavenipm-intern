@@ -54,7 +54,7 @@ Leavenipm AI Team全員 2000 年後出生，扁平管理，氛圍超CHILL!!!
 - 願意學習智財基礎法律知識  
 
 **加分條件**
-- 熟悉 React、Vue 或其他前端框架
+- 熟悉 React、Vue、Angular或其他前端框架
 - 在 GitHub 發布過與前端相關 side project 並附連結者佳
 
 ### 資訊工程師
