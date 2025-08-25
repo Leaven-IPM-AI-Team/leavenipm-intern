@@ -19,7 +19,7 @@ permalink: /interns/
   </div>
 </div>
 
-<h2>第1期實習生</h2>
+<h2>2025第1期實習生</h2>
 <div style="display: flex; align-items: center; margin: 20px 0;">
   <img src="/assets/images/Desmond.jpeg" alt="Desmond" style="width:150px; border-radius: 8px; margin-right:20px;">
   <div>
@@ -37,14 +37,16 @@ permalink: /interns/
   </div>
 </div>
 <div style="display: flex; align-items: center; margin: 20px 0;">
-  <img src="/assets/images/余.jpeg" alt="余" style="width:150px; border-radius: 8px; margin-right:20px;">
+  <img src="/assets/images/YUHSUAN.jpg" alt="YUHSUAN" style="width:150px; border-radius: 8px; margin-right:20px;">
   <div>
-    <h3>余</h3>
-
+    <h3>YUHSUAN</h3>
+      <p>臺大法律B08，現職律盟智財管理顧問股份有限公司智權管理師</p>  
+      <p>在律盟實習的期間，我負責測試專利相關之中翻日的軟體，從中學習日本及台灣的專利相關之專有名詞及知識。</p>
+      <p>在科技發達的世代，我更加了解法律和科技結合的重要性，法律人得以善用科技的力量，更有效率及正確地完成並滿足客戶的需求。</p>
     
   </div>
 </div>
-<h2>第2期實習生</h2>
+<h2>2025第2期實習生</h2>
 <div style="display: flex; align-items: center; margin: 20px 0;">
 </div>
 
