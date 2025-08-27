@@ -51,5 +51,13 @@ permalink: /interns/
 </div>
 <h2>2025第2期實習生</h2>
 <div style="display: flex; align-items: center; margin: 20px 0;">
+  <img src="/assets/images/SongDuo.jpeg" alt="SongDuo" style="width:150px; border-radius: 8px; margin-right:20px;">
+  <div>
+    <h3>SongDuo</h3>
+      <p>臺大網媒R14，現職律盟智財管理顧問股份有限公司 實習AI工程師</p>  
+      <p>在實習的日子中，參與應用大語言模型於法律文件翻譯模組的開發。</p> 
+      <p>興趣是研究AI的酷酷新發現，期望AI的發展可以逐漸落地到各領域的實務面。</p> 
+    
+  </div>
 </div>
 
