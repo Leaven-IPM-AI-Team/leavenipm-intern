@@ -29,10 +29,13 @@ permalink: /interns/
   </div>
 </div>
 <div style="display: flex; align-items: center; margin: 20px 0;">
-  <img src="/assets/images/Evan.jpeg" alt="Evan" style="width:150px; border-radius: 8px; margin-right:20px;">
+  <img src="/assets/images/Evan.png" alt="Evan" style="width:150px; border-radius: 8px; margin-right:20px;">
   <div>
     <h3>Evan</h3>
-
+      <p>臺大生科B07 → 陽明交大生醫資訊所</p>
+      <p>現職律盟智財管理顧問股份有限公司 AI工程師（2025/03-）</p>
+      <p>參與智財文件LLM翻譯模組的開發、優化翻譯品質，也運用生成式AI進行專利審查意見分析</p>
+      <p>期待能達成AI與專利領域知識的結合。</p>
     
   </div>
 </div>
