@@ -61,4 +61,25 @@ permalink: /interns/
     
   </div>
 </div>
-
+<div style="display: flex; align-items: center; margin: 20px 0;">
+  <img src="/assets/images/INU.jpg" alt="INU" style="width:150px; border-radius: 8px; margin-right:20px;">
+  <div>
+    <h3>PW</h3>
+      <p>臺大化學B08→臺大翻譯R12</p>  
+      <p>現職律盟智財管理顧問股份有限公司 智財文件譯者</p> 
+      <p>負責譯後編輯、譯文產出分析及模型回饋。</p> 
+      <p>從理組落跑之後，意外成為了科學與人文間的橋樑。</p>
+      <p>另外，這邊伙食真的讚。</p>
+    
+  </div>
+</div>
+<div style="display: flex; align-items: center; margin: 20px 0;">
+  <img src="/assets/images/INQ.jpeg" alt="INQ" style="width:150px; border-radius: 8px; margin-right:20px;">
+  <div>
+    <h3>Oscar</h3>
+      <p>line1</p>  
+      <p>line1</p> 
+      <p>line1</p> 
+    
+  </div>
+</div>
