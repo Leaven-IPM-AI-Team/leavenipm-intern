@@ -77,9 +77,9 @@ permalink: /interns/
   <img src="/assets/images/INQ.jpeg" alt="INQ" style="width:150px; border-radius: 8px; margin-right:20px;">
   <div>
     <h3>Oscar</h3>
-      <p>line1</p>  
-      <p>line1</p> 
-      <p>line1</p> 
+      <p>台大電機R14，現職律盟智財管理顧問股份有限公司 實習雲端工程師</p>  
+      <p>目前主要負責雲端架構設計與服務上雲，熟悉雲端平台的部署與維運流程</p>
+      <p>興趣是研究系統架構、資源調度機制，以提升 AI 模型的執行效率</p>
     
   </div>
 </div>
